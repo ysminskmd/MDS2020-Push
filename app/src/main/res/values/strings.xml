@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MobDevPush</string>
+    <string name="question_1">Что круче:\nAndroid или iOS?</string>
+    <string name="answer_1_1">Android</string>
+    <string name="answer_1_2">iOS</string>
+    <string name="question_2">Кто круче:\nкотики или собачки?</string>
+    <string name="answer_2_1">Котики</string>
+    <string name="answer_2_2">Собачки</string>
+    <string name="question_3">Кто круче:\nMarvel или DC?</string>
+    <string name="answer_3_1">Marvel</string>
+    <string name="answer_3_2">DC</string>
+    <string name="question_4">Что круче:\nрэп или рок?</string>
+    <string name="answer_4_1">Рэп</string>
+    <string name="answer_4_2">Рок</string>
+    <string name="question_5">Кто круче:\nЯндекс или Yandex?</string>
+    <string name="answer_5_1">Яндекс</string>
+    <string name="answer_5_2">Yandex</string>
+    <string name="next">Пройти тест</string>
+</resources>
